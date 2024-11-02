@@ -3,10 +3,13 @@
 - 👋 Hi, I’m @Sumeet1249
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working with
+                                Blockchain based Startup-https://www.rayschain.com/
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Flutter 
+- 📫 How to reach me: axiftaj@gmail.com
+- 😄 My website: https://thetechbrothers.net
+- ⚡ Fun fact: I'm comming to teen
 
 
 ### Connect with me:
