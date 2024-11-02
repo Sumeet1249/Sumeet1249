@@ -1,3 +1,5 @@
+<h1 align="center">Hi , I'm Sumeet-Kumar</h1>
+
 - 👋 Hi, I’m @Sumeet1249
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,7 +8,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-Sumeet1249/Sumeet1249 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Connect with me:
+<div id="badges">
+   <a href="https://github.com/Sumeet1249">
+   </a>
+   
