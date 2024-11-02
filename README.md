@@ -1,14 +1,13 @@
 <h1 align="center">Hi , I'm Sumeet-Kumar</h1>
 
 - 👋 Hi, I’m @Sumeet1249
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 🔭 I’m currently working with
-                                Blockchain based Startup-https://www.rayschain.com/
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
-- 😄 My website: https://thetechbrothers.net
+- 👀 I’m interested in Artificial intelligence & Machine learning...
+- 🔭 I’m currently working on Flutter...                          
+- 🌱 I’m currently learning- Backend Developer ,DSA in C++ ..
+- 💬 Ask me anything about- c ,c++ ,front-end Developer..
+- 📫 How to reach me: E-mail-sumeetkumar124900@gmail.com
+                       Phone-no.=6207651819
+- 😄 Now, I am working with Blockchain based Startup Company - https://www.rayschain.com/
 - ⚡ Fun fact: I'm comming to teen
 
 
