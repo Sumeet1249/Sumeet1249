@@ -4,7 +4,7 @@
 - 👀 I’m interested in Artificial intelligence & Machine learning...
 - 🔭 I’m currently working on Flutter...                          
 - 🌱 I’m currently learning- Backend Developer ,DSA in C++ ..
-- 💬 Ask me anything about- c ,c++ ,front-end Developer..
+- 💬 Ask me anything about- c ,c++ ,front-end 
 - 📫 How to reach me: E-mail-sumeetkumar124900@gmail.com
                        Phone-no.=6207651819
 - 😄 Now, I am working with Blockchain based Startup Company - https://www.rayschain.com/
