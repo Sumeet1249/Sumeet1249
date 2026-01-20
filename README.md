@@ -62,5 +62,38 @@ Git, GitHub, VSCode, Vercel
 </p>
 
 ---
+---
 
-⭐ *If you like my work, consider starring my repositories!*
+### 🌐 Professional Links & Networking
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumeetkumar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Sumeet1249" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:sumeetkumar001249@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://sumeetkumar.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://drive.google.com/file/d/your_resume_link/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-0078D4?style=for-the-badge&logo=adobe" />
+  </a>
+  <a href="https://www.kaggle.com/sumeetkumar" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@sumeetkumar" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=medium" />
+  </a>
+</p>
+
+---
+
+### 📌 LinkedIn Summary (Optional for Recruiters)
+Hi, I’m **Sumeet Kumar**, an aspiring AI/ML Engineer & Web Developer.  
+I specialize in building **AI-driven projects, predictive models, and modern web applications**.  
+Connect with me on LinkedIn for collaborations, internships, or freelance projects.
+
+
