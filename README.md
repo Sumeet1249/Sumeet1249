@@ -10,30 +10,45 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Working on **Machine Learning Projects (AI Agents)**
-- 🌱 Learning **Advanced Machine Learning & AI**
-- 💬 Ask me about **Web Development, MERN Stack, C++**
-- 📫 Reach me: **sumeetkumar001249@gmail.com**
-- 🌐 Portfolio: [sumeetkumar.vercel.app](https://sumeetkumar.vercel.app)
+- 🔭 Working on **Machine Learning Projects (AI Agents)**  
+- 🌱 Learning **Advanced Machine Learning & Deep Learning**  
+- 💬 Ask me about **Web Development, MERN Stack, C++, Python, AI/ML**  
+- 📫 Reach me: **sumeetkumar001249@gmail.com**  
+- 🌐 Portfolio: [sumeetkumar.vercel.app](https://sumeetkumar.vercel.app)  
+- ⚡ Fun fact: *I love building projects that combine AI with real-world problems*
 
 ---
 
 ### 🛠️ Tech Stack
-**Languages & Frameworks:**  
-Python, C++, JavaScript, HTML, CSS, React, Next.js, Node.js, Express, MongoDB, Tailwind CSS  
 
-**AI / ML Tools:**  
-NumPy, Pandas, Scikit-learn, Matplotlib, Basics of Deep Learning  
+#### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,java,c" height="30" style="margin-right:10px;" />
+</p>
 
-**Tools & Platforms:**  
-Git, GitHub, VSCode, Vercel  
+#### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap" height="30" style="margin-right:10px;" />
+</p>
+
+#### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,numpy,pandas,matplotlib,keras,pytorch" height="30" style="margin-right:10px;" />
+</p>
+
+#### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,docker,postman,linux" height="30" style="margin-right:10px;" />
+</p>
 
 ---
 
 ### 📌 Featured Projects
-- 🤖 **AI Agent Project** – ML-based intelligent automation  
-- 🌐 **Portfolio Website** – Modern web stack portfolio  
+- 🤖 **AI Agent Project** – Intelligent ML-based automation system  
+- 🌐 **Portfolio Website** – Personal portfolio built with Next.js & Tailwind  
 - 📊 **ML Mini Projects** – Data analysis & prediction models  
+
+*More projects coming soon…*
 
 ---
 
@@ -47,32 +62,13 @@ Git, GitHub, VSCode, Vercel
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="https://github.com/Sumeet1249">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/sumeetkumar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:sumeetkumar001249@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://sumeetkumar.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
-
----
----
-
-### 🌐 Professional Links & Networking
-<p align="center">
-  <a href="https://www.linkedin.com/in/sumeetkumar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
   <a href="https://github.com/Sumeet1249" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:sumeetkumar001249@gmail.com">
+  <a href="https://www.linkedin.com/in/sumeetkumar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sumeetkumar001249@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://sumeetkumar.vercel.app" target="_blank">
@@ -90,10 +86,3 @@ Git, GitHub, VSCode, Vercel
 </p>
 
 ---
-
-### 📌 LinkedIn Summary (Optional for Recruiters)
-Hi, I’m **Sumeet Kumar**, an aspiring AI/ML Engineer & Web Developer.  
-I specialize in building **AI-driven projects, predictive models, and modern web applications**.  
-Connect with me on LinkedIn for collaborations, internships, or freelance projects.
-
-
